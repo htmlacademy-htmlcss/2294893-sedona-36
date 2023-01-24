@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Буданова  Кристина](https://up.htmlacademy.ru/htmlcss/36/user/2294893).
-* Наставник: `Неизвестно`.
+* Наставник: [Кенан Агаев](https://htmlacademy.ru/profile/kenakula).
 
 ---
 
